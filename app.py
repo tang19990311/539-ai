@@ -68,4 +68,4 @@ st.write(pool)
 st.header("推薦5注")
 
 for b in bets:
-    st.write(b)  
+    st.write(b)
