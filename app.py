@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-URL = "https://www.pilio.idv.tw/lto539/list.asp"
+URL = "https://www.pilio.idv.tw/lto539/drawlist/drawlist.asp"
 
 @st.cache_data
 def load_data():
